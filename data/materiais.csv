@@ -1,0 +1,321 @@
+codigo,descricao,categoria,unidade,custo_unitario,estoque_minimo,saldo_inicial
+MAT-10001,Parafuso M12,Fixadores,UN,3.5,30,183
+MAT-10002,Parafuso M16,Fixadores,UN,1.43,24,84
+MAT-10003,Porca M16,Fixadores,UN,5.44,32,216
+MAT-10004,"Porca 5/8""",Fixadores,UN,6.54,4,24
+MAT-10005,Porca M8,Fixadores,UN,0.67,0,13
+MAT-10006,Porca M10,Fixadores,UN,2.96,21,68
+MAT-10007,Arruela M12,Fixadores,UN,3.99,6,27
+MAT-10008,"Prisioneiro 5/8""",Fixadores,UN,3.4,50,340
+MAT-10009,Porca M8,Fixadores,UN,3.71,4,25
+MAT-10010,Arruela M20,Fixadores,UN,7.59,25,161
+MAT-10011,"Porca 1/2""",Fixadores,UN,1.19,24,111
+MAT-10012,Porca M20,Fixadores,UN,3.3,42,248
+MAT-10013,Parafuso M12,Fixadores,UN,2.31,25,185
+MAT-10014,Parafuso M12,Fixadores,UN,7.86,61,380
+MAT-10015,"Porca 5/8""",Fixadores,UN,0.58,13,44
+MAT-10016,"Prisioneiro 5/8""",Fixadores,UN,2.61,15,106
+MAT-10017,Arruela M16,Fixadores,UN,2.66,31,241
+MAT-10018,"Prisioneiro 5/8""",Fixadores,UN,3.46,0,14
+MAT-10019,Parafuso M8,Fixadores,UN,6.39,15,82
+MAT-10020,Parafuso M20,Fixadores,UN,1.1,31,163
+MAT-10021,Parafuso M20,Fixadores,UN,1.56,26,127
+MAT-10022,"Prisioneiro 5/8""",Fixadores,UN,4.21,36,237
+MAT-10023,"Arruela 1/2""",Fixadores,UN,5.59,6,31
+MAT-10024,Prisioneiro M20,Fixadores,UN,4.42,0,20
+MAT-10025,Parafuso M10,Fixadores,UN,2.06,20,142
+MAT-10026,Prisioneiro M20,Fixadores,UN,0.52,48,356
+MAT-10027,"Parafuso 5/8""",Fixadores,UN,7.06,25,118
+MAT-10028,Arruela M20,Fixadores,UN,3.3,16,65
+MAT-10029,Parafuso M8,Fixadores,UN,2.15,21,70
+MAT-10030,"Prisioneiro 1/2""",Fixadores,UN,10.85,19,67
+MAT-10031,Porca M12,Fixadores,UN,2.61,12,48
+MAT-10032,"Porca 5/8""",Fixadores,UN,2.67,3,14
+MAT-10033,Porca M20,Fixadores,UN,1.36,31,96
+MAT-10034,Porca M20,Fixadores,UN,1.98,2,9
+MAT-10035,"Arruela 1/2""",Fixadores,UN,1.78,35,103
+MAT-10036,"Arruela 5/8""",Fixadores,UN,1.17,70,220
+MAT-10037,Porca M8,Fixadores,UN,2.35,0,35
+MAT-10038,Parafuso M8,Fixadores,UN,3.57,63,214
+MAT-10039,Porca M12,Fixadores,UN,1.01,0,24
+MAT-10040,Parafuso M20,Fixadores,UN,7.07,48,345
+MAT-10041,"Porca 5/8""",Fixadores,UN,1.14,49,260
+MAT-10042,Parafuso M8,Fixadores,UN,13.31,5,27
+MAT-10043,"Porca 1/2""",Fixadores,UN,3.46,48,373
+MAT-10044,Arruela M20,Fixadores,UN,3.64,17,62
+MAT-10045,Parafuso M20,Fixadores,UN,3.01,7,39
+MAT-10046,"Porca 5/8""",Fixadores,UN,5.05,6,46
+MAT-10047,Arruela M10,Fixadores,UN,4.17,9,28
+MAT-10048,Prisioneiro M16,Fixadores,UN,1.0,50,174
+MAT-10049,Parafuso M20,Fixadores,UN,2.31,44,308
+MAT-10050,Porca M10,Fixadores,UN,9.89,22,147
+MAT-10051,Prisioneiro M20,Fixadores,UN,0.19,12,50
+MAT-10052,Arruela M8,Fixadores,UN,1.5,61,377
+MAT-10053,Prisioneiro M12,Fixadores,UN,3.62,47,225
+MAT-10054,"Parafuso 5/8""",Fixadores,UN,5.54,10,55
+MAT-10055,"Parafuso 1/2""",Fixadores,UN,3.48,4,25
+MAT-10056,Parafuso M16,Fixadores,UN,7.01,0,13
+MAT-10057,"Parafuso 1/2""",Fixadores,UN,3.77,6,19
+MAT-10058,Porca M20,Fixadores,UN,4.73,22,100
+MAT-10059,"Parafuso 1/2""",Fixadores,UN,0.68,83,298
+MAT-10060,"Arruela 1/2""",Fixadores,UN,3.86,28,199
+MAT-10061,Porca M8,Fixadores,UN,13.65,38,288
+MAT-10062,"Parafuso 1/2""",Fixadores,UN,14.81,36,253
+MAT-10063,Prisioneiro M8,Fixadores,UN,3.3,50,262
+MAT-10064,"Prisioneiro 1/2""",Fixadores,UN,3.86,2,11
+MAT-10065,Parafuso M10,Fixadores,UN,1.75,0,8
+MAT-10066,"Porca 5/8""",Fixadores,UN,2.04,27,110
+MAT-10067,Parafuso M8,Fixadores,UN,21.47,17,114
+MAT-10068,Arruela M8,Fixadores,UN,1.14,5,37
+MAT-10069,Parafuso M12,Fixadores,UN,13.8,29,210
+MAT-10070,Parafuso M10,Fixadores,UN,2.05,3,18
+MAT-10071,Junta PTFE DN50,Vedação,UN,17.54,2,9
+MAT-10072,Gaxeta DN100,Vedação,UN,55.76,6,31
+MAT-10073,Gaxeta DN25,Vedação,UN,41.38,8,30
+MAT-10074,"Anel O-ring 1""",Vedação,UN,8.34,7,30
+MAT-10075,Junta PTFE DN25,Vedação,UN,91.19,4,13
+MAT-10076,Junta PTFE DN80,Vedação,UN,85.07,26,189
+MAT-10077,"Junta PTFE 1/2""",Vedação,UN,42.55,4,20
+MAT-10078,Gaxeta DN50,Vedação,UN,136.83,12,78
+MAT-10079,Junta PTFE DN50,Vedação,UN,39.43,3,10
+MAT-10080,"Junta espiral 1""",Vedação,UN,99.58,0,25
+MAT-10081,"Gaxeta 1/2""",Vedação,UN,20.54,6,26
+MAT-10082,"Junta espiral 1/2""",Vedação,UN,55.54,1,4
+MAT-10083,Junta espiral DN100,Vedação,UN,6.74,15,82
+MAT-10084,"Anel O-ring 1""",Vedação,UN,33.48,0,34
+MAT-10085,"Junta PTFE 1/2""",Vedação,UN,23.56,6,20
+MAT-10086,Anel O-ring DN25,Vedação,UN,12.87,12,50
+MAT-10087,Junta PTFE DN100,Vedação,UN,28.43,0,17
+MAT-10088,Anel O-ring DN80,Vedação,UN,16.12,1,3
+MAT-10089,Junta espiral DN80,Vedação,UN,45.16,2,15
+MAT-10090,Gaxeta DN80,Vedação,UN,201.33,2,11
+MAT-10091,Gaxeta DN80,Vedação,UN,80.99,4,29
+MAT-10092,Junta PTFE DN80,Vedação,UN,40.63,5,20
+MAT-10093,Junta PTFE DN25,Vedação,UN,8.04,9,33
+MAT-10094,Junta PTFE DN100,Vedação,UN,48.96,12,52
+MAT-10095,Gaxeta DN50,Vedação,UN,14.54,7,46
+MAT-10096,Gaxeta DN80,Vedação,UN,21.14,7,32
+MAT-10097,"Gaxeta 1""",Vedação,UN,7.18,6,30
+MAT-10098,Junta espiral DN50,Vedação,UN,303.35,2,5
+MAT-10099,"Gaxeta 1/2""",Vedação,UN,16.36,1,4
+MAT-10100,Anel O-ring DN100,Vedação,UN,11.2,3,12
+MAT-10101,Anel O-ring DN25,Vedação,UN,15.35,12,78
+MAT-10102,"Junta espiral 1/2""",Vedação,UN,16.94,0,25
+MAT-10103,Junta PTFE DN50,Vedação,UN,6.77,3,12
+MAT-10104,"Junta espiral 1""",Vedação,UN,14.66,5,28
+MAT-10105,Anel O-ring DN80,Vedação,UN,39.24,0,31
+MAT-10106,Junta espiral DN50,Vedação,UN,42.44,2,8
+MAT-10107,Anel O-ring DN100,Vedação,UN,37.48,2,9
+MAT-10108,Junta PTFE DN80,Vedação,UN,56.86,5,35
+MAT-10109,Gaxeta DN25,Vedação,UN,24.29,4,15
+MAT-10110,Junta espiral DN25,Vedação,UN,38.42,3,15
+MAT-10111,Junta espiral DN80,Vedação,UN,25.9,0,18
+MAT-10112,Gaxeta DN100,Vedação,UN,68.98,4,21
+MAT-10113,"Anel O-ring 1""",Vedação,UN,71.32,6,31
+MAT-10114,Junta PTFE DN100,Vedação,UN,34.72,9,25
+MAT-10115,Junta espiral DN25,Vedação,UN,77.06,13,44
+MAT-10116,"Junta PTFE 1""",Vedação,UN,115.49,4,15
+MAT-10117,"Junta espiral 1""",Vedação,UN,12.31,2,16
+MAT-10118,"Gaxeta 1/2""",Vedação,UN,258.43,0,11
+MAT-10119,Junta espiral DN80,Vedação,UN,22.47,7,36
+MAT-10120,Junta PTFE DN80,Vedação,UN,20.79,5,28
+MAT-10121,"Gaxeta 1""",Vedação,UN,66.93,4,14
+MAT-10122,Junta espiral DN25,Vedação,UN,80.43,5,31
+MAT-10123,"Junta PTFE 1""",Vedação,UN,24.7,2,10
+MAT-10124,Anel O-ring DN25,Vedação,UN,65.87,3,10
+MAT-10125,Anel O-ring DN25,Vedação,UN,39.73,8,48
+MAT-10126,"Vareta TIG 1,0 mm",Consumíveis de solda,KG,77.05,9,55
+MAT-10127,"Disco de corte 1,0 mm",Consumíveis de solda,KG,123.88,32,217
+MAT-10128,"Eletrodo E7018 3,2 mm",Consumíveis de solda,KG,175.72,7,42
+MAT-10129,"Disco de corte 1,0 mm",Consumíveis de solda,KG,51.2,14,68
+MAT-10130,"Arame MIG 3,2 mm",Consumíveis de solda,KG,78.56,3,14
+MAT-10131,"Eletrodo E7018 2,5 mm",Consumíveis de solda,KG,89.02,4,21
+MAT-10132,"Disco de corte 7""",Consumíveis de solda,KG,28.93,3,11
+MAT-10133,"Arame MIG 2,5 mm",Consumíveis de solda,KG,73.88,0,10
+MAT-10134,"Disco de corte 4,0 mm",Consumíveis de solda,KG,71.19,0,34
+MAT-10135,"Eletrodo E7018 3,2 mm",Consumíveis de solda,KG,359.68,33,209
+MAT-10136,"Arame MIG 4,0 mm",Consumíveis de solda,KG,54.31,2,9
+MAT-10137,"Vareta TIG 3,2 mm",Consumíveis de solda,KG,16.08,0,13
+MAT-10138,"Vareta TIG 4,0 mm",Consumíveis de solda,KG,71.12,12,93
+MAT-10139,"Disco de corte 4,0 mm",Consumíveis de solda,KG,44.92,2,8
+MAT-10140,"Disco de corte 4,0 mm",Consumíveis de solda,KG,45.26,6,33
+MAT-10141,"Arame MIG 4,0 mm",Consumíveis de solda,KG,44.34,6,33
+MAT-10142,"Eletrodo E7018 4,0 mm",Consumíveis de solda,KG,44.76,20,107
+MAT-10143,"Arame MIG 3,2 mm",Consumíveis de solda,KG,279.7,0,5
+MAT-10144,"Vareta TIG 3,2 mm",Consumíveis de solda,KG,33.76,0,13
+MAT-10145,"Disco de corte 4,0 mm",Consumíveis de solda,KG,45.66,3,15
+MAT-10146,"Vareta TIG 7""",Consumíveis de solda,KG,9.46,20,103
+MAT-10147,"Arame MIG 7""",Consumíveis de solda,KG,61.09,0,33
+MAT-10148,"Arame MIG 2,5 mm",Consumíveis de solda,KG,78.91,1,3
+MAT-10149,"Disco de corte 2,5 mm",Consumíveis de solda,KG,56.59,4,19
+MAT-10150,"Arame MIG 2,5 mm",Consumíveis de solda,KG,262.64,33,243
+MAT-10151,"Arame MIG 1,0 mm",Consumíveis de solda,KG,190.29,7,47
+MAT-10152,"Eletrodo E7018 1,0 mm",Consumíveis de solda,KG,42.36,6,26
+MAT-10153,"Disco de corte 7""",Consumíveis de solda,KG,56.75,5,25
+MAT-10154,"Arame MIG 7""",Consumíveis de solda,KG,50.84,16,69
+MAT-10155,"Vareta TIG 2,5 mm",Consumíveis de solda,KG,34.89,0,26
+MAT-10156,"Arame MIG 1,0 mm",Consumíveis de solda,KG,35.1,4,13
+MAT-10157,"Arame MIG 1,0 mm",Consumíveis de solda,KG,17.03,14,50
+MAT-10158,"Arame MIG 4,0 mm",Consumíveis de solda,KG,28.74,1,1
+MAT-10159,"Eletrodo E7018 4,0 mm",Consumíveis de solda,KG,80.77,9,30
+MAT-10160,"Vareta TIG 4,0 mm",Consumíveis de solda,KG,32.77,2,12
+MAT-10161,Curva 90° DN25,Tubos e conexões,UN,20.45,3,10
+MAT-10162,Flange DN150,Tubos e conexões,UN,360.6,2,8
+MAT-10163,Curva 90° DN100,Tubos e conexões,UN,282.54,1,1
+MAT-10164,Flange DN25,Tubos e conexões,UN,40.38,5,30
+MAT-10165,Curva 90° DN25,Tubos e conexões,UN,132.1,1,8
+MAT-10166,Niple DN100,Tubos e conexões,UN,330.23,1,4
+MAT-10167,Curva 90° DN150,Tubos e conexões,UN,59.42,0,29
+MAT-10168,Curva 90° DN50,Tubos e conexões,UN,105.65,2,8
+MAT-10169,Flange DN100,Tubos e conexões,UN,17.86,2,8
+MAT-10170,Curva 90° DN80,Tubos e conexões,UN,433.22,0,7
+MAT-10171,Curva 90° DN25,Tubos e conexões,UN,95.21,0,15
+MAT-10172,Niple DN25,Tubos e conexões,UN,644.28,1,5
+MAT-10173,Niple DN25,Tubos e conexões,UN,2773.71,3,10
+MAT-10174,Tubo aço carbono DN25,Tubos e conexões,UN,681.61,0,17
+MAT-10175,Flange DN50,Tubos e conexões,UN,203.05,4,17
+MAT-10176,Tubo aço carbono DN80,Tubos e conexões,UN,467.62,6,38
+MAT-10177,Curva 90° DN150,Tubos e conexões,UN,1285.38,1,3
+MAT-10178,Tubo aço carbono DN150,Tubos e conexões,UN,111.26,0,14
+MAT-10179,Niple DN100,Tubos e conexões,UN,51.28,2,8
+MAT-10180,Flange DN150,Tubos e conexões,UN,373.98,1,2
+MAT-10181,Flange DN80,Tubos e conexões,UN,2291.73,6,36
+MAT-10182,Curva 90° DN80,Tubos e conexões,UN,201.4,5,14
+MAT-10183,Niple DN150,Tubos e conexões,UN,847.55,2,11
+MAT-10184,Curva 90° DN80,Tubos e conexões,UN,187.22,2,13
+MAT-10185,Niple DN150,Tubos e conexões,UN,388.4,2,5
+MAT-10186,Niple DN100,Tubos e conexões,UN,82.75,1,5
+MAT-10187,Flange DN100,Tubos e conexões,UN,89.1,0,30
+MAT-10188,Flange DN25,Tubos e conexões,UN,121.31,3,11
+MAT-10189,Curva 90° DN25,Tubos e conexões,UN,394.83,1,2
+MAT-10190,Niple DN100,Tubos e conexões,UN,104.75,2,8
+MAT-10191,Curva 90° DN80,Tubos e conexões,UN,612.55,2,9
+MAT-10192,Niple DN100,Tubos e conexões,UN,2188.41,1,2
+MAT-10193,Flange DN50,Tubos e conexões,UN,1168.46,3,13
+MAT-10194,Tubo aço carbono DN25,Tubos e conexões,UN,296.96,3,13
+MAT-10195,Curva 90° DN150,Tubos e conexões,UN,361.45,1,2
+MAT-10196,Flange DN150,Tubos e conexões,UN,271.58,1,3
+MAT-10197,Curva 90° DN25,Tubos e conexões,UN,310.9,3,13
+MAT-10198,Niple DN25,Tubos e conexões,UN,162.45,2,8
+MAT-10199,Flange DN80,Tubos e conexões,UN,150.81,2,6
+MAT-10200,Niple DN50,Tubos e conexões,UN,299.36,1,3
+MAT-10201,Flange DN50,Tubos e conexões,UN,1662.26,2,11
+MAT-10202,Curva 90° DN100,Tubos e conexões,UN,118.22,2,6
+MAT-10203,Curva 90° DN50,Tubos e conexões,UN,24.62,0,37
+MAT-10204,Niple DN25,Tubos e conexões,UN,81.94,1,5
+MAT-10205,Niple DN150,Tubos e conexões,UN,55.72,0,29
+MAT-10206,Haste DN150,Peças de válvulas,UN,917.76,1,1
+MAT-10207,Sede DN25,Peças de válvulas,UN,831.13,2,14
+MAT-10208,Mola classe 600,Peças de válvulas,UN,845.78,1,2
+MAT-10209,Sede DN50,Peças de válvulas,UN,38.89,1,3
+MAT-10210,Sede DN100,Peças de válvulas,UN,305.27,1,1
+MAT-10211,Mola DN150,Peças de válvulas,UN,110.99,1,1
+MAT-10212,Haste classe 600,Peças de válvulas,UN,183.46,0,11
+MAT-10213,Haste DN100,Peças de válvulas,UN,65.4,0,15
+MAT-10214,Haste classe 300,Peças de válvulas,UN,748.3,3,15
+MAT-10215,Mola DN80,Peças de válvulas,UN,1685.27,0,12
+MAT-10216,Mola DN80,Peças de válvulas,UN,2453.17,1,2
+MAT-10217,Sede DN100,Peças de válvulas,UN,325.03,2,8
+MAT-10218,Sede classe 300,Peças de válvulas,UN,492.39,1,2
+MAT-10219,Haste DN100,Peças de válvulas,UN,638.5,1,2
+MAT-10220,Haste classe 600,Peças de válvulas,UN,603.3,1,1
+MAT-10221,Mola DN80,Peças de válvulas,UN,325.46,1,2
+MAT-10222,Obturador DN50,Peças de válvulas,UN,99.25,0,21
+MAT-10223,Mola classe 300,Peças de válvulas,UN,651.56,1,4
+MAT-10224,Obturador classe 600,Peças de válvulas,UN,290.29,1,8
+MAT-10225,Sede DN150,Peças de válvulas,UN,171.03,1,2
+MAT-10226,Obturador DN150,Peças de válvulas,UN,1653.77,1,2
+MAT-10227,Haste DN100,Peças de válvulas,UN,400.38,2,6
+MAT-10228,Mola DN80,Peças de válvulas,UN,3549.69,1,3
+MAT-10229,Obturador classe 300,Peças de válvulas,UN,7970.83,0,27
+MAT-10230,Haste DN25,Peças de válvulas,UN,201.34,1,1
+MAT-10231,Mola DN50,Peças de válvulas,UN,471.35,3,16
+MAT-10232,Haste DN50,Peças de válvulas,UN,362.89,1,2
+MAT-10233,Haste DN80,Peças de válvulas,UN,156.75,1,6
+MAT-10234,Haste DN25,Peças de válvulas,UN,436.17,1,4
+MAT-10235,Mola classe 600,Peças de válvulas,UN,105.49,2,11
+MAT-10236,Obturador DN80,Peças de válvulas,UN,268.01,0,39
+MAT-10237,Sede classe 600,Peças de válvulas,UN,44.12,1,3
+MAT-10238,Mola DN80,Peças de válvulas,UN,906.08,1,8
+MAT-10239,Mola classe 600,Peças de válvulas,UN,1642.9,2,8
+MAT-10240,Obturador classe 600,Peças de válvulas,UN,81.49,1,4
+MAT-10241,Haste classe 600,Peças de válvulas,UN,209.9,1,1
+MAT-10242,Obturador DN150,Peças de válvulas,UN,1377.86,1,2
+MAT-10243,Haste DN100,Peças de válvulas,UN,312.05,0,18
+MAT-10244,Sede DN50,Peças de válvulas,UN,69.65,0,14
+MAT-10245,Mola classe 600,Peças de válvulas,UN,551.28,0,30
+MAT-10246,Haste classe 600,Peças de válvulas,UN,186.62,1,2
+MAT-10247,Mola classe 600,Peças de válvulas,UN,1799.44,2,10
+MAT-10248,Obturador DN100,Peças de válvulas,UN,358.92,1,4
+MAT-10249,Sede classe 300,Peças de válvulas,UN,138.29,2,6
+MAT-10250,Mola DN50,Peças de válvulas,UN,1503.12,1,3
+MAT-10251,Mola classe 300,Peças de válvulas,UN,128.92,1,3
+MAT-10252,Mola DN80,Peças de válvulas,UN,4788.14,1,2
+MAT-10253,Mola DN25,Peças de válvulas,UN,180.22,1,6
+MAT-10254,Obturador classe 600,Peças de válvulas,UN,1059.1,1,2
+MAT-10255,Obturador DN150,Peças de válvulas,UN,179.47,2,12
+MAT-10256,Obturador DN150,Peças de válvulas,UN,1227.88,2,7
+MAT-10257,Mola DN150,Peças de válvulas,UN,774.21,1,5
+MAT-10258,Haste DN100,Peças de válvulas,UN,2592.51,1,2
+MAT-10259,Sede DN150,Peças de válvulas,UN,2836.04,1,2
+MAT-10260,Obturador DN50,Peças de válvulas,UN,1399.64,1,2
+MAT-10261,Obturador DN100,Peças de válvulas,UN,222.15,1,4
+MAT-10262,Haste DN150,Peças de válvulas,UN,141.45,1,2
+MAT-10263,Sede DN25,Peças de válvulas,UN,62.33,2,6
+MAT-10264,Mola DN150,Peças de válvulas,UN,18.87,0,25
+MAT-10265,Sede DN25,Peças de válvulas,UN,572.2,1,1
+MAT-10266,Luva Tam. P,EPI,UN,32.58,1,5
+MAT-10267,Óculos Tam. M,EPI,UN,92.04,16,93
+MAT-10268,Óculos Tam. M,EPI,UN,32.79,13,55
+MAT-10269,Luva CA padrão,EPI,UN,22.3,2,10
+MAT-10270,Máscara PFF2 Tam. GG,EPI,UN,15.66,6,35
+MAT-10271,Luva CA padrão,EPI,UN,43.17,14,46
+MAT-10272,Óculos Tam. G,EPI,UN,71.98,8,49
+MAT-10273,Luva Tam. G,EPI,UN,16.92,2,10
+MAT-10274,Protetor auricular Tam. P,EPI,UN,19.06,16,68
+MAT-10275,Luva Tam. GG,EPI,UN,56.71,14,57
+MAT-10276,Óculos Tam. GG,EPI,UN,64.33,35,203
+MAT-10277,Protetor auricular Tam. M,EPI,UN,74.25,28,213
+MAT-10278,Máscara PFF2 Tam. G,EPI,UN,58.92,4,15
+MAT-10279,Óculos Tam. M,EPI,UN,135.67,3,20
+MAT-10280,Máscara PFF2 Tam. P,EPI,UN,37.44,2,8
+MAT-10281,Protetor auricular Tam. G,EPI,UN,40.53,3,14
+MAT-10282,Luva Tam. M,EPI,UN,94.25,9,69
+MAT-10283,Óculos Tam. P,EPI,UN,71.86,2,8
+MAT-10284,Máscara PFF2 Tam. P,EPI,UN,119.15,4,16
+MAT-10285,Luva CA padrão,EPI,UN,16.0,32,102
+MAT-10286,Protetor auricular Tam. P,EPI,UN,62.24,7,20
+MAT-10287,Protetor auricular Tam. GG,EPI,UN,58.13,0,5
+MAT-10288,Óculos Tam. GG,EPI,UN,14.04,8,39
+MAT-10289,Luva CA padrão,EPI,UN,14.06,4,21
+MAT-10290,Luva Tam. P,EPI,UN,68.97,7,34
+MAT-10291,Luva Tam. M,EPI,UN,24.0,35,249
+MAT-10292,Luva Tam. GG,EPI,UN,40.82,1,5
+MAT-10293,Protetor auricular Tam. GG,EPI,UN,87.98,10,31
+MAT-10294,Máscara PFF2 Tam. M,EPI,UN,9.94,2,7
+MAT-10295,Luva Tam. M,EPI,UN,36.39,0,34
+MAT-10296,Lima 17 mm,Ferramentas,UN,492.61,1,3
+MAT-10297,Lima 10 mm,Ferramentas,UN,228.48,1,3
+MAT-10298,Lima 10 mm,Ferramentas,UN,214.14,1,1
+MAT-10299,Lima 17 mm,Ferramentas,UN,101.33,0,13
+MAT-10300,"Lima 3/4""",Ferramentas,UN,209.3,1,1
+MAT-10301,Lima 13 mm,Ferramentas,UN,512.17,0,21
+MAT-10302,Macho 13 mm,Ferramentas,UN,83.12,1,5
+MAT-10303,"Macho 1/2""",Ferramentas,UN,790.87,0,14
+MAT-10304,Lima 13 mm,Ferramentas,UN,141.61,1,2
+MAT-10305,"Chave 3/4""",Ferramentas,UN,1549.3,0,19
+MAT-10306,"Macho 3/4""",Ferramentas,UN,414.27,1,3
+MAT-10307,Macho 17 mm,Ferramentas,UN,45.49,1,6
+MAT-10308,Macho 10 mm,Ferramentas,UN,83.87,1,3
+MAT-10309,"Chave 3/4""",Ferramentas,UN,278.01,1,1
+MAT-10310,Chave 10 mm,Ferramentas,UN,78.53,1,4
+MAT-10311,Broca 13 mm,Ferramentas,UN,93.16,1,1
+MAT-10312,"Chave 3/4""",Ferramentas,UN,947.91,1,2
+MAT-10313,"Macho 1/2""",Ferramentas,UN,235.12,1,6
+MAT-10314,Broca 13 mm,Ferramentas,UN,225.28,1,1
+MAT-10315,Broca 17 mm,Ferramentas,UN,87.78,1,1
+MAT-10316,Macho 13 mm,Ferramentas,UN,134.68,1,2
+MAT-10317,"Broca 1/2""",Ferramentas,UN,160.45,1,3
+MAT-10318,Lima 10 mm,Ferramentas,UN,1791.21,1,2
+MAT-10319,Broca 17 mm,Ferramentas,UN,113.24,1,2
+MAT-10320,Broca 10 mm,Ferramentas,UN,192.39,1,1
